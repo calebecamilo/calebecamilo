@@ -1,11 +1,15 @@
-## Hi there 👋
-
+## Hi, I'm Calebe
+ Hi everyone! I'm Calebe, a freshmen year Artificial Intelligence student at UFTM (Brazil) exploring fundamentals of computer science, AI and ML.
+ Despite this, i use Unity and Unreal Engine 5 motivated by personal interests
+### Find me
+>LinkedIn: https://www.linkedin.com/in/calebecamilo/ \
+>LeetCode: https://leetcode.com/u/calebecamilo/
+### Fun fact:
+I love Art and i started my journey after watching the God Of War making of.
 <!--
 **calebecamilo/calebecamilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
