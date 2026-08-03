@@ -1,5 +1,5 @@
 ## Hi, I'm Calebe
- Hi everyone! I'm Calebe, a freshmen year Artificial Intelligence student at UFTM (Brazil) exploring fundamentals of computer science, AI and ML.
+ Hi everyone! I'm Calebe, a freshmen year Artificial Intelligence student at UFTM (Brazil) exploring fundamentals of computer science, AI and ML. \
  Despite this, i use Unity and Unreal Engine 5 motivated by personal interests
 ### Find me
 >LinkedIn: https://www.linkedin.com/in/calebecamilo/ \
